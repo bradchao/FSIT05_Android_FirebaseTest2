@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "490149208261",
+    "firebase_url": "https://bradok-f2bee.firebaseio.com",
+    "project_id": "bradok-f2bee",
+    "storage_bucket": "bradok-f2bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490149208261:android:ee57b21a29b7c3c2",
+        "android_client_info": {
+          "package_name": "tw.brad.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490149208261-5pt8mvltr72p8c2shv88ddr453af1o0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFQs26-4JB3cy0z86djMke-KUEQyZqjX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490149208261:android:7be1423b3beddde3",
+        "android_client_info": {
+          "package_name": "tw.brad.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490149208261-ptmdnb4qdb0oo44rmjt32j2uun2gvluu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.brad.firebasetest",
+            "certificate_hash": "aea40d694026377fa1962c432097df61d7e6609c"
+          }
+        },
+        {
+          "client_id": "490149208261-5pt8mvltr72p8c2shv88ddr453af1o0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFQs26-4JB3cy0z86djMke-KUEQyZqjX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490149208261-5pt8mvltr72p8c2shv88ddr453af1o0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
